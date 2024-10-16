@@ -1,0 +1,5 @@
+As mudanças foram;
+
+Entrada do usuário sobre o numero de elementos;
+
+Array dinâmico podendo ter tamanho variado com base no numero de elementos informados que serão informados;
